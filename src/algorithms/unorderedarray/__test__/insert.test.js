@@ -1,9 +1,7 @@
 const assert = require("assert");
 
 // Import the insert function
-const {
-  insertV2: insert,
-} = require("../../../src/algorithms/unorderedarray/insert");
+const { insertV2: insert } = require("../insert");
 
 // Test cases for the insert function
 describe("Array", () => {

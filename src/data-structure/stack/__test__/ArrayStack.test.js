@@ -1,5 +1,5 @@
 const assert = require("assert");
-const ArrayStack = require("../../../src/data-structure/stack/array-stack");
+const ArrayStack = require("../ArrayStack");
 
 describe("ArrayStack", function () {
   describe("#push()", function () {

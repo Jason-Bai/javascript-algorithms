@@ -1,5 +1,5 @@
 const assert = require("assert");
-const LinkedStack = require("../../../src/data-structure/stack/linked-stack");
+const LinkedStack = require("../LinkedStack");
 
 describe("LinkedStack", function () {
   describe("#push()", function () {
